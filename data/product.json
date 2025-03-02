@@ -1,0 +1,73 @@
+[
+    {
+        "name":"kanni",
+        "price":5500,
+        "description":"it is native breed of Tamilnadu",
+        "ratings":4.3,
+        "image":"/image/kanni.jpg",
+        "categories":"dogs",
+        "seller":"pets-store",
+        "numOfReviews":5,
+        "quantity":1,
+        "review":[ ]
+    },
+    {
+        "name":"BullDog",
+        "price":5000,
+        "description":"it is native breed of U.S",
+        "ratings":4.3,
+        "image":"/image/im2.jpg",
+        "categories":"dogs",
+        "seller":"pets-store",
+        "numOfReviews":5,
+        "quantity":1,
+        "review":[ ]
+    },
+    {
+        "name":"Burmese cat",
+        "price":4500,
+        "description":"it is very cute",
+        "ratings":4.3,
+        "image":"/image/im3.avif",
+        "categories":"cat",
+        "seller":"Cat-Stole",
+        "numOfReviews":5,
+        "quantity":1,
+        "review":[ ]
+    },
+    {
+        "name":"Ragdoll",
+        "price":3000,
+        "description":"it is very pretty",
+        "ratings":4.3,
+        "image":"/image/im4.jpg",
+        "categories":"Cats",
+        "seller":"Cat-Stole",
+        "numOfReviews":5,
+        "quantity":1,
+        "review":[ ]
+    }, {
+        "name":"Blue-Head parrot",
+        "price":850,
+        "description":"rare breed",
+        "ratings":4.3,
+        "image":"/image/im6.jfif",
+        "categories":"Bird",
+        "seller":"Bird-Shop",
+        "numOfReviews":5,
+        "quantity":1,
+        "review":[ ]
+    },
+    {
+        "name":"Macaw",
+        "price":800,
+        "description":"it is very colorfull",
+        "ratings":4.3,
+        "image":"/image/im5.webp",
+        "categories":"Bird",
+        "seller":"Bird-Shop",
+        "numOfReviews":5,
+        "quantity":1,
+        "review":[ ]
+    }
+]
